@@ -11,6 +11,7 @@ O código é uma calculadora simples de 4 operações:
  - Subtração
  - Multiplicação
  - Divisão
+
 Quando a operação é inválida ele da um print dizendo que o resultado é zero.
 Para sair da calculadora basta digitar sair no campo de operação.
 
