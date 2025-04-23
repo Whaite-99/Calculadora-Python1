@@ -18,4 +18,5 @@ Para sair da calculadora basta digitar sair no campo de operação.
 ## Como executar o código:
  - 1° dar autorização utilizando o comando "chmod =x calculadora.sh"
  - 2° digitar "./calculadora.sh"
+
 Feito isso o código irá rodar.
